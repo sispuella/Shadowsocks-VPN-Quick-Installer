@@ -1,6 +1,0 @@
-#!/bin/sh
-echo "Starting to Configure"
-yum install python-setuptools && easy_install pip
-pip install shadowsocks
-chmod 777 ./vpn-install
-./vpn-install
