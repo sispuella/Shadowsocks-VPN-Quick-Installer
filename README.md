@@ -20,7 +20,6 @@ The tool is open-sourced, and is a product of self-practicing. Please feel free 
 使用指南：
 请自行租借服务器，digitalOcean的VPS也就5美金一个月，按小时收费，速度还是非常棒的。
 租借服务器时请选择CentOs系统，因为它默认安装了yum所以可以省去很多麻烦。
-进入终端后，请依次输入以下指令，如果出现需要你填的内容就按照提示填一下，让你选y/n的选y就好。命令行一点也不可怕，尤其是告诉你需要输什么的时候。
 1. yum install git
 2. git clone https://github.com/sispuella/Shadowsocks-VPN-Quick-Installer.git
 3. cd /Shadowsocks-VPN-Quick-Installer/Release
