@@ -22,7 +22,7 @@ The tool is open-sourced, and is a product of self-practicing. Please feel free 
 租借服务器时请选择CentOs系统，因为它默认安装了yum所以可以省去很多麻烦。
 1. yum install git
 2. git clone https://github.com/sispuella/Shadowsocks-VPN-Quick-Installer.git
-3. cd /Shadowsocks-VPN-Quick-Installer/Release
+3. cd Shadowsocks-VPN-Quick-Installer/Release
 4. chmod 777 run
 5. ./run
 运行完以上指令，并且按照提示输入完毕后，如果没有出错，那么shadosocks就已经被配置完成了。（注：server port和local port 必须为数字，推荐设成8388与1080，但具体是什么数字其实无所谓，如果没有相关知识就按照8388和1080设置吧。）
